@@ -1,3 +1,15 @@
+# ============================================================================
+# DAVID_001_lease_renewal_week - Wake-up Prompts (50 turns)
+# ============================================================================
+# Persona      : David Allen Miller (warehouse associate, Heartland Distribution Center, Salina, Kansas)
+# Workspace    : david-miller/ (USER, IDENTITY, SOUL, MEMORY, HEARTBEAT, TOOLS, AGENTS)
+# Category     : home_and_organization
+# Variant      : enterprise_with_personal_overlay (Heartland shift/OT thread; >=20% personal-life turns)
+# Window       : Fri Oct 16 - Mon Oct 19 2026 ; the Oct 19 lease renewal decision is the Day-4 event
+# Timezone     : America/Chicago (Central; CDT, UTC-5; DST active through Nov 1 2026)
+# Days/turns   : 4 days, 50 turns (T0-T49), ~12-13/day
+# ============================================================================
+
 --- TURN T0 (Day 1, 05:12) ---
 Alarm's going. Friday, and it's a payday. Before I'm out the door for the six o'clock, give me the short version. What's on the calendar today, did anything come in overnight on the email about the schedule, and is there anything from work I need to see. Keep it tight, I've got maybe four minutes and a cold truck.
 
